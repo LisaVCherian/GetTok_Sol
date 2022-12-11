@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisaVCherian/GetTok_Sol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisaVCherian/GetTok_Sol/issues"
+  },
+  "homepage": "https://github.com/LisaVCherian/GetTok_Sol#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.70.1"
+  }
+}
